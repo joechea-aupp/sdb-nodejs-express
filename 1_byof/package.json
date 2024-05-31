@@ -1,0 +1,14 @@
+{
+  "name": "1_byof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -r esm server.js",
+    "start": "node -r esm server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
